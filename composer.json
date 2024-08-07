@@ -1,5 +1,7 @@
 {
-    "require": {
-        
-    }
+    "name": "wolfz/assignment4_comp214",
+    "description": "Assignment 4 for Comp214 2024",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
 }
